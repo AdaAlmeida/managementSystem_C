@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1700779628 source:c:\users\adylla\documents\trabalho_faculdade\menu_inicial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
